@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-CORS
+Flask-Limiter
+python-dotenv
+psycopg2-binary
+pytz
+gunicorn

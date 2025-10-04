@@ -13,13 +13,6 @@ This project implements a comprehensive, end-to-end (full-stack) Internet of Thi
 
 ---
 
-## 📸 Project Preview
-
-Here is a preview of the main project dashboard, showcasing real-time data visualization.
-
-![EnviroMon Dashboard Preview]([LINK_TO_YOUR_DASHBOARD_SCREENSHOT.png])
-
----
 
 ## ✨ Key Features & Achievements
 

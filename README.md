@@ -48,7 +48,7 @@ The system follows a standard three-layer IoT architecture, optimized for perfor
 ---
 ## Acknowledgements
 
-This work is submitted as a final project for the Bachelor of Science in Mechanical Engineering at Shahid Beheshti University. I would like to express my sincere gratitude to my supervisor, [Dr. Abbas Rouhani](https://scholar.google.com/citations?user=YtyojdAAAAAJ&hl=en), for his invaluable guidance and support throughout this research.
+This work is submitted as a final project for the Bachelor of Science in Mechanical Engineering at Shahid Beheshti University. I would like to express my sincere gratitude to my supervisor, [Dr. Abbas Rouhani](https://scholar.google.com/citations?user=YtyojdAAAAAJ&hl=en), for his invaluable guidance and support throughout this project.
 
 --- 
 ## 🚀 Getting Started / Local Setup

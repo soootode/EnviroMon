@@ -117,7 +117,8 @@ const Project = () => {
           <div className="flex-1">
             <h2 className="text-xl font-bold mb-2">Weather & Environmental Monitoring System</h2>
             <p className="text-white/90 text-sm leading-relaxed">
-              Hello! I'm Sedighe Jamalimanesh, the creator of this environmental monitoring system. This project was developed as a practical application of my skills in both hardware integration and modern web development. The goal was to build a complete end-to-end solution, capturing real-world data from a sensor array and visualizing it through this responsive React interface. Explore the dashboard to see the live data in action!
+             This system is presented as the undergraduate final project by Sedighe Jamalimanesh, for the Bachelor of Science degree in Mechanical Engineering at Shahid Beheshti University. This project was defined and executed under the supervision of my respected advisor, Dr. Abbas Rouhani.
+			The primary objective was the development of a complete end-to-end solution for IoT-based environmental monitoring, encompassing hardware design, backend server development, and this dynamic user interface.You are invited to visit the dashboard section to observe the system's live performance.
             </p>
           </div>
         </div>

@@ -62,7 +62,7 @@ Follow the steps below to run this project on your local machine.
 
 ```bash
 # 1. Clone the repository
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone (https://github.com/soootode/EnviroMon)
 cd EnviroMon
 
 # 2. Set up the Backend
